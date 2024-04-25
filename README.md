@@ -46,7 +46,9 @@ To use this notebook:
 6. **Set up the information retrieval system**: Perform document indexing and querying.
 7. **Deploy the Gradio interface**: Launch the interface to interact with the RAG system.
 
-Note: Ensure that necessary permissions for Google Drive access are granted and that the Hugging Face token is provided. Optionally, you can add the `HF_TOKEN` as a secret key on Google Colab to avoid manual login on Hugging Face when prompted.
+Note 1: Ensure that necessary permissions for Google Drive access are granted and that the Hugging Face token is provided. Optionally, you can add the `HF_TOKEN` as a secret key on Google Colab to avoid manual login on Hugging Face when prompted.
+
+Note 2: This script was only tested with PDF documents.
 
 ## License
 
