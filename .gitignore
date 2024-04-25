@@ -1,3 +1,5 @@
 # .gitignore
-config.py
 .DS_Store
+config.py
+data
+env
